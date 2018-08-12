@@ -24,11 +24,11 @@ You may want to view my other To-Do list examples to know more about... "One pri
 |---|---|
 |[Redux - Simple To-Do list](https://github.com/nguyenkhois/redux-simple-todo-list)| Using pure JavaScript|
 |[TypeScript - Simple To-Do list](https://github.com/nguyenkhois/typescript-simple-todo-list)||
-|React|
+|**React**|
 |[React - To-Do list](https://github.com/nguyenkhois/react-todo-list)||
 |[React-Redux - Simple To-Do list](https://github.com/nguyenkhois/react-redux-simple-todo-list)|It's simpler to understand about React-Redux for beginners|
 |[React-Redux - To-Do list](https://github.com/nguyenkhois/react-redux-todo-list)||
 |[React-Redux To-Do list adv](https://github.com/nguyenkhois/react-redux-todo-list-adv)|Advance|
-|Angular|
+|**Angular**|
 |[Angular - Simple To-Do list](https://github.com/nguyenkhois/angular-simple-todo-list)||
 |[Angular-RxJS - To-Do list](https://github.com/nguyenkhois/angular-rxjs-todo-list)||
