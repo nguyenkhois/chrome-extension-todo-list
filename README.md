@@ -28,7 +28,7 @@ You may want to view my other To-Do list examples to know more about... "One pri
 |[React - To-Do list](https://github.com/nguyenkhois/react-todo-list)||
 |[React-Redux - Simple To-Do list](https://github.com/nguyenkhois/react-redux-simple-todo-list)|It's simpler to understand about React-Redux for beginners|
 |[React-Redux - To-Do list](https://github.com/nguyenkhois/react-redux-todo-list)||
-|[React-Redux To-Do list adv](https://github.com/nguyenkhois/react-redux-todo-list-adv)|Advance|
+|[React-Redux To-Do list adv](https://github.com/nguyenkhois/react-redux-todo-list-adv)|Advance by using extra component and actions|
 |**Angular**|
 |[Angular - Simple To-Do list](https://github.com/nguyenkhois/angular-simple-todo-list)||
 |[Angular-RxJS - To-Do list](https://github.com/nguyenkhois/angular-rxjs-todo-list)||
