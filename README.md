@@ -18,7 +18,7 @@ This project based on [React-Redux To-Do list](https://github.com/nguyenkhois/re
 
 ## Other repositories
 
-You may want to view my other To-Do list examples to know more about... "One principle for many ways":
+You may want to view my other To-Do list examples to know more my idea... "One principle for many ways" (^_~)
 
 | Repository | Notes |
 |---|---|
