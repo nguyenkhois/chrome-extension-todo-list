@@ -1,5 +1,5 @@
 # Chrome extension - To-Do list
-This project based on [React-Redux To-Do list](https://github.com/nguyenkhois/react-redux-todo-list-adv)
+This project based on [React-Redux To-Do list](https://github.com/nguyenkhois/react-redux-todo-list-adv). Visit this repository if you want to know more about what I have created. That's the interest and helpful. (^_^)
 
 ## Screenshot
 ![Screenshoot](images/screenshot.png)
