@@ -5,7 +5,7 @@ This project based on [React-Redux To-Do list](https://github.com/nguyenkhois/re
 ![Screenshoot](images/screenshot.png)
 
 ## Installation
-* Step 1: Clone this repository or download [direct zip file](assets/chrome-extension-todo-list.zip).
+* Step 1: Clone this repository.
 * Step 2: Install this extension by turning on Developer mode in Chrome. You may want to view how to install an extension on your local computer [here](https://developer.chrome.com/extensions/getstarted#unpacked).
 
 ![Load extension](images/load_extension.png)
