@@ -1,20 +1,19 @@
 {
     "name": "gToDos",
-    "description": "Use shortkey Ctrl+Shift+K to open it from toolbar. This extension created by Khoi Le (minarek@outlook.com)",
+    "description": "Use shortkey Ctrl+Shift+L to open it from toolbar. This extension created by Khoi Le (minarek@outlook.com)",
     "version": "1.0",
     "manifest_version": 2,
     "browser_action": {
         "default_popup": "index.html",
         "default_icon": "./images/casper.png"
     },
-    "permissions": ["storage"],
     "commands": {
         "_execute_browser_action": {
-          "suggested_key": {
-            "default": "Ctrl+Shift+K",
-            "mac": "MacCtrl+Shift+K"
-          },
-          "description": "Open index.html"
+            "suggested_key": {
+                "default": "Ctrl+Shift+L",
+                "windows": "Ctrl+Shift+L",
+                "mac": "MacCtrl+Shift+L"
+            }
         }
-      }
+    }
 }
