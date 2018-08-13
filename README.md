@@ -11,7 +11,7 @@ This project based on [React-Redux To-Do list](https://github.com/nguyenkhois/re
 ![Load extension](images/load_extension.png)
 
 ## Using
-Use shortkey `Ctrl+Shift+K` to open this extension and begin note your tasks.
+Use shortkey `Ctrl+Shift+L` to open this extension and begin note your tasks.
 
 ## Notes
 * I created this extension to learn myself about [React-Redux](https://redux.js.org/basics/usagewithreact) and want to know how a SAP ([Single-Page Applications](https://en.wikipedia.org/wiki/Single-page_application)) works as a [Chrome extension](https://developer.chrome.com/extensions).
