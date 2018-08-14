@@ -1,7 +1,7 @@
 {
     "name": "gToDos",
     "description": "Use shortkey Ctrl+Shift+L to open it from toolbar. This extension created by Khoi Le (minarek@outlook.com)",
-    "version": "1.0",
+    "version": "1.0.3",
     "manifest_version": 2,
     "browser_action": {
         "default_popup": "index.html",
